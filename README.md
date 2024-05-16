@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Full Stack React & .Net Interner<br>👯 I’m using Javascript, React Native, React, Asp.Net Core<br>🌱 I’m currently learning TypeScript, .Net Core
+🔭 I’m currently Full Stack React & .Net Developer<br>👯 I’m using Javascript, React Native, React, Asp.Net Core<br>🌱 I’m currently learning TypeScript, .Net Core
 
 
 ## 🌐 Socials:
